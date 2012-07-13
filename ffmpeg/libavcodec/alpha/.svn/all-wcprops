@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha
+END
+dsputil_alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/dsputil_alpha.h
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/regdef.h
+END
+simple_idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/simple_idct_alpha.c
+END
+mpegvideo_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/mpegvideo_alpha.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/asm.h
+END
+motion_est_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/motion_est_alpha.c
+END
+dsputil_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/dsputil_alpha.c
+END
+dsputil_alpha_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/dsputil_alpha_asm.S
+END
+motion_est_mvi_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/motion_est_mvi_asm.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alpha/Makefile
+END

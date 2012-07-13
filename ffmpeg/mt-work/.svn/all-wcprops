@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work
+END
+email.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/email.sh
+END
+mplayer.diff
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/mplayer.diff
+END
+raw.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/raw.sh
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/todo.txt
+END
+yuvcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/yuvcmp.c
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/test.sh
+END
+valgrind-check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/mt-work/valgrind-check.sh
+END

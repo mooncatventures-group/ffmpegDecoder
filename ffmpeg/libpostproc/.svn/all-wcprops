@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc
+END
+postprocess_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/postprocess_template.c
+END
+libpostproc.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/libpostproc.v
+END
+postprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/postprocess.c
+END
+postprocess_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/postprocess_internal.h
+END
+postprocess_altivec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/postprocess_altivec_template.c
+END
+postprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/postprocess.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libpostproc/Makefile
+END

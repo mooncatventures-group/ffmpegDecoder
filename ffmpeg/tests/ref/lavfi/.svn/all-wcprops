@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi
+END
+pixdesc_le
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixdesc_le
+END
+vflip
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/vflip
+END
+vflip_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/vflip_vflip
+END
+pixfmts_scale_le
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_scale_le
+END
+pixfmts_hflip_le
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_hflip_le
+END
+pixfmts_crop_le
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_crop_le
+END
+pixfmts_pad_le
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_pad_le
+END
+crop_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/crop_vflip
+END
+crop
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/crop
+END
+vflip_crop
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/vflip_crop
+END
+pixfmts_null_le
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_null_le
+END
+pixfmts_copy_le
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_copy_le
+END
+pixdesc_be
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixdesc_be
+END
+scale200
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/scale200
+END
+pixfmts_vflip_le
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/pixfmts_vflip_le
+END
+null
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/null
+END
+crop_scale_vflip
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/crop_scale_vflip
+END
+crop_scale
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/crop_scale
+END
+scale500
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/lavfi/scale500
+END

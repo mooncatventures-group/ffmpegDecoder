@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4
+END
+dsputil_align.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/dsputil_align.c
+END
+idct_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/idct_sh4.c
+END
+qpel.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/qpel.c
+END
+dsputil_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/dsputil_sh4.c
+END
+sh4.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/sh4.h
+END
+dsputil_sh4.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/dsputil_sh4.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sh4/Makefile
+END

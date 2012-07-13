@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/utils.c
+END
+yuv2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/yuv2rgb.c
+END
+swscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale.c
+END
+swscale_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale_internal.h
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale.h
+END
+colorspace-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/colorspace-test.c
+END
+libswscale.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/libswscale.v
+END
+swscale-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale-test.c
+END
+swscale_unscaled.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale_unscaled.c
+END
+rgb2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/rgb2rgb_template.c
+END
+rgb2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/rgb2rgb.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/options.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/Makefile
+END
+rgb2rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/rgb2rgb.h
+END
+swscale_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/swscale_template.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools
+END
+cws2fws.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/cws2fws.c
+END
+patcheck
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/patcheck
+END
+unwrap-diff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/unwrap-diff
+END
+clean-diff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/clean-diff
+END
+probetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/probetest.c
+END
+lavfi-showfiltfmts.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/lavfi-showfiltfmts.c
+END
+trasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/trasher.c
+END
+graph2dot.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/graph2dot.c
+END
+pktdumper.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/pktdumper.c
+END
+qt-faststart.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tools/qt-faststart.c
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/evaforge/!svn/ver/33/trunk/software/client/reference/ffmpeg-0.8.7
+END
+RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/RELEASE
+END
+configure4ios
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/evaforge/!svn/ver/11/trunk/software/client/reference/ffmpeg-0.8.7/configure4ios
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/LICENSE
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/Doxyfile
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/VERSION
+END
+ffmpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffmpeg.c
+END
+cmdutils_common_opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/cmdutils_common_opts.h
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/README
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/version.sh
+END
+subdir.mak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/subdir.mak
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/common.mak
+END
+COPYING.GPLv2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/COPYING.GPLv2
+END
+config_cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/evaforge/!svn/ver/33/trunk/software/client/reference/ffmpeg-0.8.7/config_cmd.sh
+END
+COPYING.GPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/COPYING.GPLv3
+END
+ffplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffplay.c
+END
+ffserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffserver.c
+END
+ffprobe.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffprobe.c
+END
+cmdutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/cmdutils.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/INSTALL
+END
+ffserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffserver.h
+END
+cmdutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/cmdutils.h
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/MAINTAINERS
+END
+COPYING.LGPLv2.1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/COPYING.LGPLv2.1
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/Makefile
+END
+COPYING.LGPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/COPYING.LGPLv3
+END

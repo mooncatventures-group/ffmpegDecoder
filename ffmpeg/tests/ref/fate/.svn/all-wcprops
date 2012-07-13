@@ -1,0 +1,2411 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate
+END
+flic-af11-palette-change
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/flic-af11-palette-change
+END
+h264-conformance-sva_ba1_b
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_ba1_b
+END
+video-xl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/video-xl
+END
+lossless-appleaudio
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-appleaudio
+END
+caf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/caf
+END
+h264-conformance-aud_mw_e
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-aud_mw_e
+END
+h264-conformance-caba3_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba3_sony_c
+END
+ea-dct
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-dct
+END
+h264-conformance-camanl1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camanl1_toshiba_b
+END
+zmbv-32bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/zmbv-32bit
+END
+h264-conformance-cvfi2_sony_h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvfi2_sony_h
+END
+lmlm4-demux
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lmlm4-demux
+END
+h264-conformance-cama3_sand_e
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama3_sand_e
+END
+h264-conformance-sharp_mp_field_2_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sharp_mp_field_2_b
+END
+h264-conformance-frext-freh6
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-freh6
+END
+ea-vp60
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-vp60
+END
+qt-mac6-mono
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-mac6-mono
+END
+iff-fibonacci
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/iff-fibonacci
+END
+ea-vp61
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-vp61
+END
+h264-conformance-camp_mot_mbaff_l30
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camp_mot_mbaff_l30
+END
+h264-conformance-camp_mot_mbaff_l31
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camp_mot_mbaff_l31
+END
+h264-conformance-canl3_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl3_sva_b
+END
+mpc7-demux
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpc7-demux
+END
+h264-conformance-cvwp2_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvwp2_toshiba_e
+END
+armovie-escape124
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/armovie-escape124
+END
+maxis-xa
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/maxis-xa
+END
+zmbv-15bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/zmbv-15bit
+END
+idroq-video-dpcm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/idroq-video-dpcm
+END
+h264-conformance-nlmq1_jvc_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nlmq1_jvc_c
+END
+h264-conformance-frext-freh2_b
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-freh2_b
+END
+h264-conformance-frext-frext3_panasonic_d
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext3_panasonic_d
+END
+qtrle-24bit
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-24bit
+END
+h264-conformance-mr1_mw_a
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr1_mw_a
+END
+h264-conformance-mps_mw_a
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mps_mw_a
+END
+qt-mac3-mono
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-mac3-mono
+END
+h264-conformance-sva_nl1_b
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_nl1_b
+END
+lossless-meridianaudio
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-meridianaudio
+END
+h264-conformance-frext-hcaff1_hhi_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcaff1_hhi_b
+END
+h264-conformance-nl3_sva_e
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nl3_sva_e
+END
+ea-tgv-ima-ea-eacs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-tgv-ima-ea-eacs
+END
+ea-tgv-ima-ea-sead
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-tgv-ima-ea-sead
+END
+iff-ilbm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/iff-ilbm
+END
+smacker
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/smacker
+END
+vmnc-16bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vmnc-16bit
+END
+h264-conformance-caqp1_sony_b
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caqp1_sony_b
+END
+h264-conformance-sva_ba2_d
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_ba2_d
+END
+svq1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/svq1
+END
+h264-conformance-frext-hpcaflnl_bcrm_c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcaflnl_bcrm_c
+END
+dpx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/dpx
+END
+h264-conformance-caba1_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba1_sony_d
+END
+feeble-dxa
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/feeble-dxa
+END
+qt-msimaadpcm-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-msimaadpcm-stereo
+END
+svq3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/svq3
+END
+h264-conformance-frext-hcafr3_hhi_a
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcafr3_hhi_a
+END
+mimic
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mimic
+END
+mpeg4-als-conformance-00
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-00
+END
+mpeg4-als-conformance-01
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-01
+END
+mpeg4-als-conformance-02
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-02
+END
+dxa-scummvm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/dxa-scummvm
+END
+mpeg4-als-conformance-03
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-03
+END
+mpeg4-als-conformance-04
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-04
+END
+mpeg4-als-conformance-05
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg4-als-conformance-05
+END
+qt-mac3-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-mac3-stereo
+END
+h264-conformance-cabast3_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabast3_sony_e
+END
+h264-conformance-mr9_bt_b
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr9_bt_b
+END
+h264-conformance-ba1_ft_c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ba1_ft_c
+END
+h264-conformance-sharp_mp_field_3_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sharp_mp_field_3_b
+END
+alg-mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/alg-mm
+END
+h264-conformance-frext-pph10i2_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i2_panasonic_a
+END
+auravision
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/auravision
+END
+h264-conformance-frext-pph10i6_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i6_panasonic_a
+END
+h264-conformance-mr2_tandberg_e
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr2_tandberg_e
+END
+h264-conformance-camaci3_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camaci3_sony_c
+END
+msrle-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/msrle-8bit
+END
+qtrle-4bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-4bit
+END
+adpcm-ea-r2
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/adpcm-ea-r2
+END
+sunraster-24bit-rle
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-24bit-rle
+END
+vp8-test-vector-001
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-001
+END
+adpcm-ea-r3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/adpcm-ea-r3
+END
+vp8-test-vector-002
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-002
+END
+film-cvid-pcm-stereo-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/film-cvid-pcm-stereo-8bit
+END
+vp8-test-vector-003
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-003
+END
+creative-adpcm-8-2.6bit
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/creative-adpcm-8-2.6bit
+END
+vp8-test-vector-004
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-004
+END
+wnv1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/wnv1
+END
+h264-conformance-caba3_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba3_sva_b
+END
+vp8-test-vector-005
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-005
+END
+h264-conformance-cvfi2_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvfi2_sva_c
+END
+vp8-test-vector-006
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-006
+END
+vp8-test-vector-007
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-007
+END
+vp8-test-vector-008
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-008
+END
+bfi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/bfi
+END
+vp8-test-vector-009
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-009
+END
+loco-yuy2
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/loco-yuy2
+END
+h264-conformance-mr6_bt_b
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr6_bt_b
+END
+h264-conformance-cvbs3_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvbs3_sony_c
+END
+h264-conformance-fi1_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-fi1_sony_e
+END
+loco-rgb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/loco-rgb
+END
+h264-conformance-nrf_mw_e
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nrf_mw_e
+END
+cyberia-c93
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cyberia-c93
+END
+qtrle-16bit
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-16bit
+END
+vqa-cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vqa-cc
+END
+vp6a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp6a
+END
+h264-conformance-nl1_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nl1_sony_d
+END
+h264-conformance-sva_nl2_e
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_nl2_e
+END
+vp6f
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp6f
+END
+lossless-wavpackaudio
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-wavpackaudio
+END
+h264-conformance-mr5_tandberg_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr5_tandberg_c
+END
+creative-adpcm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/creative-adpcm
+END
+txd-16bpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/txd-16bpp
+END
+creative-adpcm-8-2bit
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/creative-adpcm-8-2bit
+END
+qt-rawpcm-16bit-stereo-signed-be
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-rawpcm-16bit-stereo-signed-be
+END
+vp8-test-vector-010
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-010
+END
+creatureshock-avs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/creatureshock-avs
+END
+h264-conformance-ba3_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ba3_sva_c
+END
+qt-ulaw-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-ulaw-stereo
+END
+vp8-test-vector-011
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-011
+END
+vp8-test-vector-012
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-012
+END
+vp8-test-vector-013
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-013
+END
+oma-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/oma-demux
+END
+vp8-test-vector-014
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-014
+END
+lossless-tta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-tta
+END
+vp8-test-vector-015
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-015
+END
+ws_snd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ws_snd
+END
+vp8-test-vector-016
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-016
+END
+h264-conformance-hcbp2_hhi_a
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-hcbp2_hhi_a
+END
+vp8-test-vector-017
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-test-vector-017
+END
+interplay-mve-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/interplay-mve-8bit
+END
+zmbv-16bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/zmbv-16bit
+END
+flic-af12
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/flic-af12
+END
+aasc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/aasc
+END
+fax-g3s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fax-g3s
+END
+vp3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp3
+END
+h264-conformance-sva_fm1_e
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_fm1_e
+END
+h264-conformance-basqp1_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-basqp1_sony_c
+END
+vp5
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp5
+END
+pcm_dvd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/pcm_dvd
+END
+idroq-video-encode
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/idroq-video-encode
+END
+ea-tgq
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-tgq
+END
+h264-conformance-cabac_mot_mbaff0_full
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabac_mot_mbaff0_full
+END
+h264-conformance-canl1_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl1_sva_b
+END
+mszh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mszh
+END
+westwood-aud
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/westwood-aud
+END
+h264-conformance-canl3_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl3_sony_c
+END
+nsv-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/nsv-demux
+END
+h264-conformance-frext-brcm_freh11
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh11
+END
+g722dec-1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/g722dec-1
+END
+qpeg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qpeg
+END
+h264-conformance-frext-hcamff1_hhi_b
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcamff1_hhi_b
+END
+h264-conformance-cawp1_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cawp1_toshiba_e
+END
+h264-conformance-sva_cl1_e
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_cl1_e
+END
+h264-conformance-frext-frext2_panasonic_b
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext2_panasonic_b
+END
+duck-dk3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/duck-dk3
+END
+h264-conformance-cama1_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama1_sony_c
+END
+duck-dk4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/duck-dk4
+END
+h264-conformance-frext-hpcamolq_brcm_b
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcamolq_brcm_b
+END
+h264-conformance-cvpcmnl1_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvpcmnl1_sva_c
+END
+h264-conformance-cama3_vtc_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama3_vtc_b
+END
+tiertex-seq
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/tiertex-seq
+END
+vcr1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vcr1
+END
+h264-conformance-bamq1_jvc_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-bamq1_jvc_c
+END
+wmv8-drm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/wmv8-drm
+END
+h264-conformance-cvnlfi1_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvnlfi1_sony_c
+END
+h264-conformance-cvmanl2_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmanl2_toshiba_b
+END
+h264-conformance-frext-bcrm_freh10
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-bcrm_freh10
+END
+h264-conformance-ba2_sony_f
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ba2_sony_f
+END
+h264-conformance-frext-hcafr1_hhi_c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcafr1_hhi_c
+END
+h264-conformance-cvmaqp3_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmaqp3_sony_d
+END
+h264-conformance-cvmp_mot_fld_l30_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmp_mot_fld_l30_b
+END
+h264-conformance-canlma3_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canlma3_sony_c
+END
+wmv8-drm-nodec
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/wmv8-drm-nodec
+END
+h264-conformance-hcmp1_hhi_a
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-hcmp1_hhi_a
+END
+h264-conformance-mr2_mw_a
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr2_mw_a
+END
+h264-conformance-frext-pph10i1_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i1_panasonic_a
+END
+vqf-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vqf-demux
+END
+h264-conformance-frext-hpcaq2lq_brcm_b
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcaq2lq_brcm_b
+END
+h264-conformance-frext-pph10i5_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i5_panasonic_a
+END
+h264-conformance-cvmapaqp3_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmapaqp3_sony_e
+END
+psx-str
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/psx-str
+END
+h264-conformance-canl1_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl1_sony_e
+END
+h264-conformance-canl4_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl4_sva_b
+END
+sierra-audio
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sierra-audio
+END
+h264-conformance-cvwp1_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvwp1_toshiba_e
+END
+mpc8-demux
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpc8-demux
+END
+vp8-sign-bias
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vp8-sign-bias
+END
+vc1
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vc1
+END
+h264-conformance-caba1_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba1_sva_b
+END
+deluxepaint-anm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/deluxepaint-anm
+END
+h264-conformance-caba3_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba3_toshiba_e
+END
+qt-rawpcm-8bit-mono-unsigned
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-rawpcm-8bit-mono-unsigned
+END
+h264-conformance-ls_sva_d
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ls_sva_d
+END
+h264-conformance-cama1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama1_toshiba_b
+END
+h264-conformance-nlmq2_jvc_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nlmq2_jvc_c
+END
+bink-demux-video
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/bink-demux-video
+END
+qt-mac6-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-mac6-stereo
+END
+sha
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sha
+END
+8bps
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/8bps
+END
+real-rv40
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/real-rv40
+END
+h264-conformance-capcmnl1_sand_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-capcmnl1_sand_e
+END
+h264-conformance-mv1_brcm_d
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mv1_brcm_d
+END
+duck-tm2
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/duck-tm2
+END
+h264-conformance-cavlc_mot_frm0_full_b
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cavlc_mot_frm0_full_b
+END
+cljr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cljr
+END
+h264-conformance-cvma1_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvma1_sony_d
+END
+h264-conformance-cavlc_mot_picaff0_full_b
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cavlc_mot_picaff0_full_b
+END
+h264-conformance-frext-hcafr4_hhi_a
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcafr4_hhi_a
+END
+h264-conformance-frext-frext_mmco4_sony_b
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext_mmco4_sony_b
+END
+rl2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/rl2
+END
+sub-srt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sub-srt
+END
+sunraster-24bit-raw
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-24bit-raw
+END
+pictor
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/pictor
+END
+qcp-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qcp-demux
+END
+sunraster-1bit-rle
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-1bit-rle
+END
+h264-conformance-mr7_bt_b
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr7_bt_b
+END
+mtv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mtv
+END
+ea-cmv
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-cmv
+END
+qt-alaw-mono
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-alaw-mono
+END
+ulti
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ulti
+END
+wc3movie-xan
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/wc3movie-xan
+END
+h264-conformance-cvmp_mot_frm_l31_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmp_mot_frm_l31_b
+END
+zmbv-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/zmbv-8bit
+END
+h264-conformance-mr4_tandberg_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr4_tandberg_c
+END
+amv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/amv
+END
+h264-conformance-cabastbr3_sony_b
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabastbr3_sony_b
+END
+h264-conformance-capcm1_sand_e
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-capcm1_sand_e
+END
+h264-interlace-crop
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-interlace-crop
+END
+real-14_4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/real-14_4
+END
+h264-conformance-cvcanlma2_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvcanlma2_sony_c
+END
+h264-conformance-cvma1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvma1_toshiba_b
+END
+motionpixels
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/motionpixels
+END
+h264-conformance-cvfi1_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvfi1_sony_d
+END
+h264-conformance-frext-frext01_jvc_d
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext01_jvc_d
+END
+corepng
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/corepng
+END
+h264-conformance-caba2_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba2_sony_e
+END
+qt-ulaw-mono
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-ulaw-mono
+END
+txd-pal8
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/txd-pal8
+END
+h264-conformance-frext-frext1_panasonic_c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext1_panasonic_c
+END
+h264-conformance-frext-alphaconformanceg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-alphaconformanceg
+END
+h264-conformance-cabaci3_sony_b
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabaci3_sony_b
+END
+h264-conformance-cavlc_mot_fld0_full_b
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cavlc_mot_fld0_full_b
+END
+h264-conformance-cama1_vtc_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama1_vtc_c
+END
+h264-conformance-frext-hpcamapalq_bcrm_b
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcamapalq_bcrm_b
+END
+h264-conformance-ci_mw_d
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ci_mw_d
+END
+sunraster-8bit-rle
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-8bit-rle
+END
+psx-str-v3-mdec
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/psx-str-v3-mdec
+END
+thp-mjpeg-adpcm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/thp-mjpeg-adpcm
+END
+h264-conformance-frext-hpcvflnl_bcrm_a
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcvflnl_bcrm_a
+END
+h264-conformance-cavlc_mot_mbaff0_full_b
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cavlc_mot_mbaff0_full_b
+END
+h264-conformance-ci1_ft_b
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ci1_ft_b
+END
+qtrle-1bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-1bit
+END
+h264-conformance-frext-freh12_b
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-freh12_b
+END
+creative-adpcm-8-4bit
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/creative-adpcm-8-4bit
+END
+h264-conformance-cabac_mot_picaff0_full
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabac_mot_picaff0_full
+END
+h264-conformance-frext-hpcvnl_brcm_a
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcvnl_brcm_a
+END
+h264-conformance-mr1_bt_a
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr1_bt_a
+END
+sp5x
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sp5x
+END
+h264-conformance-camanl2_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camanl2_toshiba_b
+END
+ea-tqi-adpcm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-tqi-adpcm
+END
+4xm-1
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/4xm-1
+END
+4xm-2
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/4xm-2
+END
+cdgraphics
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cdgraphics
+END
+ea-mad-pcm-planar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-mad-pcm-planar
+END
+lossless-monkeysaudio
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-monkeysaudio
+END
+h264-conformance-frext-pph10i4_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i4_panasonic_a
+END
+psx-str-v3-adpcm_xa
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/psx-str-v3-adpcm_xa
+END
+w64
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/w64
+END
+iff-pcm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/iff-pcm
+END
+h264-conformance-canl2_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl2_sva_b
+END
+h264-conformance-nl2_sony_h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-nl2_sony_h
+END
+frwu
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/frwu
+END
+h264-conformance-frext-hpcvfl_bcrm_a
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcvfl_bcrm_a
+END
+fax-g3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fax-g3
+END
+cvid
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cvid
+END
+gsm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/gsm
+END
+h264-conformance-cabref3_sand_d
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabref3_sand_d
+END
+h264-conformance-cvwp3_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvwp3_toshiba_e
+END
+h264-conformance-capama3_sand_f
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-capama3_sand_f
+END
+quickdraw
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/quickdraw
+END
+msvideo1-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/msvideo1-8bit
+END
+h264-conformance-sva_base_b
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sva_base_b
+END
+d-cinema-demux
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/d-cinema-demux
+END
+fraps-v0
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v0
+END
+bethsoft-vid
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/bethsoft-vid
+END
+mpeg2-field-enc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mpeg2-field-enc
+END
+fraps-v1
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v1
+END
+fraps-v2
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v2
+END
+h264-conformance-camanl3_sand_e
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camanl3_sand_e
+END
+fraps-v3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v3
+END
+h264-conformance-ba_mw_d
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ba_mw_d
+END
+fraps-v4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v4
+END
+fraps-v5
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/fraps-v5
+END
+aac-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/aac-demux
+END
+h264-conformance-camasl3_sony_b
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-camasl3_sony_b
+END
+qt-alaw-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-alaw-stereo
+END
+aea-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/aea-demux
+END
+pva-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/pva-demux
+END
+yop
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/yop
+END
+h264-conformance-cvpcmnl2_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvpcmnl2_sva_c
+END
+h264-conformance-capa1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-capa1_toshiba_b
+END
+nuv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/nuv
+END
+h264-conformance-frext-brcm_freh3
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh3
+END
+h264-conformance-frext-brcm_freh4
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh4
+END
+iff-byterun1
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/iff-byterun1
+END
+h264-conformance-frext-freh7_b
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-freh7_b
+END
+h264-conformance-frext-brcm_freh5
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh5
+END
+cryo-apc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cryo-apc
+END
+h264-conformance-frext-brcm_freh8
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh8
+END
+h264-conformance-frext-hpca_brcm_c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpca_brcm_c
+END
+h264-conformance-frext-brcm_freh9
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-brcm_freh9
+END
+h264-conformance-bamq2_jvc_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-bamq2_jvc_c
+END
+indeo2
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/indeo2
+END
+nc-demux
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/nc-demux
+END
+indeo3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/indeo3
+END
+indeo5
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/indeo5
+END
+h264-conformance-cvmanl1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmanl1_toshiba_b
+END
+redcode-demux
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/redcode-demux
+END
+iv8-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/iv8-demux
+END
+h264-conformance-frext-hcafr2_hhi_a
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hcafr2_hhi_a
+END
+zlib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/zlib
+END
+bink-demux
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/bink-demux
+END
+auravision-v2
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/auravision-v2
+END
+h264-conformance-frext-hpcanl_brcm_c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcanl_brcm_c
+END
+h264-conformance-midr_mw_d
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-midr_mw_d
+END
+h264-conformance-sharp_mp_paff_2r
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sharp_mp_paff_2r
+END
+smc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/smc
+END
+funcom-iss
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/funcom-iss
+END
+msmpeg4v1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/msmpeg4v1
+END
+qtrle-2bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-2bit
+END
+h264-conformance-canl1_toshiba_g
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl1_toshiba_g
+END
+h264-lossless
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-lossless
+END
+qt-rawpcm-8bit-stereo-unsigned
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-rawpcm-8bit-stereo-unsigned
+END
+h264-conformance-cvnlfi2_sony_h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvnlfi2_sony_h
+END
+h264-conformance-caba2_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-caba2_sva_b
+END
+h264-conformance-frext-hpcvmolq_brcm_b
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcvmolq_brcm_b
+END
+h264-conformance-cvfi1_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvfi1_sva_c
+END
+h264-conformance-cvpa1_toshiba_b
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvpa1_toshiba_b
+END
+delphine-cin
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/delphine-cin
+END
+h264-conformance-frext-hpcafl_bcrm_c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcafl_bcrm_c
+END
+mjpegb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mjpegb
+END
+h264-conformance-mr8_bt_b
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr8_bt_b
+END
+h264-conformance-cawp5_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cawp5_toshiba_e
+END
+h264-conformance-frext-frext4_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext4_panasonic_a
+END
+truemotion1-15
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/truemotion1-15
+END
+sunraster-1bit-raw
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-1bit-raw
+END
+qt-ima4-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-ima4-stereo
+END
+rpza
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/rpza
+END
+interplay-mve-16bit
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/interplay-mve-16bit
+END
+h264-extreme-plane-pred
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-extreme-plane-pred
+END
+h264-conformance-mr3_tandberg_b
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-mr3_tandberg_b
+END
+h264-conformance-sl1_sva_b
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sl1_sva_b
+END
+h264-conformance-canl2_sony_e
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canl2_sony_e
+END
+vmnc-32bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/vmnc-32bit
+END
+cyuv
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cyuv
+END
+siff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/siff
+END
+flic-magiccarpet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/flic-magiccarpet
+END
+h264-conformance-cacqp3_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cacqp3_sony_d
+END
+kmvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/kmvc
+END
+h264-conformance-sharp_mp_paff_1r2
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sharp_mp_paff_1r2
+END
+qt-rawpcm-16bit-stereo-signed-le
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-rawpcm-16bit-stereo-signed-le
+END
+h264-conformance-sharp_mp_field_1_b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-sharp_mp_field_1_b
+END
+h264-conformance-cabac_mot_fld0_full
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabac_mot_fld0_full
+END
+truemotion1-24
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/truemotion1-24
+END
+ptx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ptx
+END
+cscd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cscd
+END
+tscc-32bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/tscc-32bit
+END
+h264-conformance-frext-pph10i3_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i3_panasonic_a
+END
+cvid-palette
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/cvid-palette
+END
+sunraster-8bit-raw
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sunraster-8bit-raw
+END
+h264-conformance-frext-pph10i7_panasonic_a
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-pph10i7_panasonic_a
+END
+qt-ima4-mono
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-ima4-mono
+END
+h264-conformance-ba1_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-ba1_sony_d
+END
+h264-conformance-cabac_mot_frm0_full
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cabac_mot_frm0_full
+END
+h264-conformance-capm3_sony_d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-capm3_sony_d
+END
+v210
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/v210
+END
+h264-conformance-cvwp5_toshiba_e
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvwp5_toshiba_e
+END
+ansi
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ansi
+END
+rv30
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/rv30
+END
+qtrle-8bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-8bit
+END
+h264-conformance-banm_mw_d
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-banm_mw_d
+END
+h264-conformance-frext-frext02_jvc_c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-frext02_jvc_c
+END
+ea-cdata
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-cdata
+END
+h264-conformance-cvmaqp2_sony_g
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cvmaqp2_sony_g
+END
+h264-conformance-canlma2_sony_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-canlma2_sony_c
+END
+h264-conformance-frext-hpcv_brcm_a
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcv_brcm_a
+END
+h264-conformance-frext-hpcadq_brcm_b
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcadq_brcm_b
+END
+gsm-ms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/gsm-ms
+END
+h264-conformance-frext-freh1_b
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-freh1_b
+END
+qt-msadpcm-stereo
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qt-msadpcm-stereo
+END
+tmv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/tmv
+END
+id-cin-video
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/id-cin-video
+END
+h264-conformance-cafi1_sva_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cafi1_sva_c
+END
+xan-dpcm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/xan-dpcm
+END
+qtrle-32bit
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/qtrle-32bit
+END
+ea-mad-adpcm-ea-r1
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/ea-mad-adpcm-ea-r1
+END
+h264-conformance-cama2_vtc_b
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-cama2_vtc_b
+END
+lossless-shortenaudio
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/lossless-shortenaudio
+END
+sierra-vmd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/sierra-vmd
+END
+msvideo1-16bit
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/msvideo1-16bit
+END
+mxf-demux
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/mxf-demux
+END
+h264-conformance-frext-hpcalq_brcm_b
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/h264-conformance-frext-hpcalq_brcm_b
+END
+tscc-15bit
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/fate/tscc-15bit
+END

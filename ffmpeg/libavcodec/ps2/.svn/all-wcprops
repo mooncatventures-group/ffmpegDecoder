@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ps2
+END
+mpegvideo_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ps2/mpegvideo_mmi.c
+END
+idct_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ps2/idct_mmi.c
+END
+dsputil_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ps2/dsputil_mmi.c
+END
+mmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ps2/mmi.h
+END

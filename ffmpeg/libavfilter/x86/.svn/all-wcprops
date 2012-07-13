@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/x86
+END
+gradfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/x86/gradfun.c
+END
+yadif_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/x86/yadif_template.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/x86/Makefile
+END
+yadif.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/x86/yadif.c
+END

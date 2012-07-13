@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm
+END
+ac3dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/ac3dsp_init_arm.c
+END
+mpegaudiodsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegaudiodsp_init_arm.c
+END
+mdct_fixed_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mdct_fixed_neon.S
+END
+vp8dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp8dsp_init_arm.c
+END
+ac3dsp_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/ac3dsp_armv6.S
+END
+vp8_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp8_armv6.S
+END
+fmtconvert_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fmtconvert_init_arm.c
+END
+simple_idct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/simple_idct_arm.S
+END
+ac3dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/ac3dsp_neon.S
+END
+mpegvideo_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_neon.S
+END
+vp3dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp3dsp_neon.S
+END
+dsputil_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_armv6.S
+END
+simple_idct_armv5te.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/simple_idct_armv5te.S
+END
+fft_fixed_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fft_fixed_init_arm.c
+END
+h264pred_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/h264pred_init_arm.c
+END
+jrevdct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/jrevdct_arm.S
+END
+dsputil_init_armv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_init_armv6.c
+END
+vp8dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp8dsp_neon.S
+END
+mpegvideo_armv5te_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_armv5te_s.S
+END
+h264idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/h264idct_neon.S
+END
+fmtconvert_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fmtconvert_neon.S
+END
+dsputil_init_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_init_neon.c
+END
+mdct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mdct_neon.S
+END
+dsputil_iwmmxt_rnd_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_iwmmxt_rnd_template.c
+END
+dsputil_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_iwmmxt.c
+END
+aac.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/aac.h
+END
+int_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/int_neon.S
+END
+vp56dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp56dsp_init_arm.c
+END
+mpegaudiodsp_fixed_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegaudiodsp_fixed_armv6.S
+END
+simple_idct_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/simple_idct_neon.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/Makefile
+END
+ac3dsp_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/ac3dsp_arm.S
+END
+asm-offsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/asm-offsets.h
+END
+vp56_arith.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp56_arith.h
+END
+fft_fixed_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fft_fixed_neon.S
+END
+h264pred_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/h264pred_neon.S
+END
+rdft_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/rdft_neon.S
+END
+asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/asm.S
+END
+fft_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fft_init_arm.c
+END
+dsputil_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_arm.S
+END
+dsputil_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_init_arm.c
+END
+vp56dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp56dsp_neon.S
+END
+synth_filter_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/synth_filter_neon.S
+END
+dsputil_init_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_init_armv5te.c
+END
+h264dsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/h264dsp_init_arm.c
+END
+fft_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fft_neon.S
+END
+mpegvideo_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_arm.c
+END
+dsputil_vfp.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_vfp.S
+END
+dcadsp_init_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dcadsp_init_arm.c
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mathops.h
+END
+fmtconvert_vfp.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/fmtconvert_vfp.S
+END
+dsputil_init_vfp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_init_vfp.c
+END
+mpegvideo_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_armv5te.c
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/vp8.h
+END
+dsputil_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_neon.S
+END
+mpegvideo_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_arm.h
+END
+mpegvideo_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/mpegvideo_iwmmxt.c
+END
+simple_idct_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/simple_idct_armv6.S
+END
+dsputil_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dsputil_arm.h
+END
+h264dsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/h264dsp_neon.S
+END
+dcadsp_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/arm/dcadsp_neon.S
+END

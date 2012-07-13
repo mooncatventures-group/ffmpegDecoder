@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/libvo
+END
+video_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/libvo/video_out.h
+END
+fastmemcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/libvo/fastmemcpy.h
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/mlib
+END
+yuv2rgb_mlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libswscale/mlib/yuv2rgb_mlib.c
+END

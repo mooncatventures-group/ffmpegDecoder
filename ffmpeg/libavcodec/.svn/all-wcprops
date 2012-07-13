@@ -1,0 +1,4361 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec
+END
+srtenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/srtenc.c
+END
+libdiracenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libdiracenc.c
+END
+ac3enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc.h
+END
+dvbsubdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvbsubdec.c
+END
+mjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpeg.c
+END
+mpeg4video.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4video.c
+END
+dvdsub_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvdsub_parser.c
+END
+nellymoserdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/nellymoserdec.c
+END
+intrax8huf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/intrax8huf.h
+END
+tmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tmv.c
+END
+mjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpeg.h
+END
+nuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/nuv.c
+END
+mpeg4video.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4video.h
+END
+dv_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dv_tablegen.c
+END
+dv_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dv_tablegen.h
+END
+libvpxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libvpxdec.c
+END
+v210x.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/v210x.c
+END
+lagarithrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lagarithrac.c
+END
+a64colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/a64colors.h
+END
+binkdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/binkdata.h
+END
+ac3dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dec.c
+END
+libvo-aacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libvo-aacenc.c
+END
+srtdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/srtdec.c
+END
+vp8dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8dsp.c
+END
+libdiracdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libdiracdec.c
+END
+lagarithrac.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lagarithrac.h
+END
+ac3dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dec.h
+END
+vp8dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8dsp.h
+END
+pnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pnm.c
+END
+cljr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cljr.c
+END
+cookdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cookdata.h
+END
+libvorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libvorbis.c
+END
+intrax8.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/intrax8.c
+END
+h264pred.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264pred.c
+END
+pnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pnm.h
+END
+intrax8.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/intrax8.h
+END
+adxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/adxenc.c
+END
+qdm2data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qdm2data.h
+END
+pamenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pamenc.c
+END
+h264pred.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264pred.h
+END
+svq1_vlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1_vlc.h
+END
+high_bit_depth.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/high_bit_depth.h
+END
+libvo-amrwbenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libvo-amrwbenc.c
+END
+sinewin.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sinewin.c
+END
+rawenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rawenc.c
+END
+h263data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263data.h
+END
+ac3enc_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc_float.c
+END
+sinewin.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sinewin.h
+END
+wma.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wma.c
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mdct.c
+END
+escape124.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/escape124.c
+END
+fmtconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fmtconvert.c
+END
+adxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/adxdec.c
+END
+rv10.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv10.c
+END
+wma.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wma.h
+END
+motionpixels.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motionpixels.c
+END
+lagarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lagarith.c
+END
+fmtconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fmtconvert.h
+END
+dcadsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcadsp.c
+END
+rv40dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv40dsp.c
+END
+dcadsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcadsp.h
+END
+fft_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft_float.c
+END
+mpegaudiodata.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodata.c
+END
+rawdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rawdec.c
+END
+vc1_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1_parser.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jfdctfst.c
+END
+amrwbdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/amrwbdata.h
+END
+mpegaudiodata.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodata.h
+END
+vp6data.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp6data.h
+END
+ac3enc_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc_fixed.c
+END
+assenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/assenc.c
+END
+aacadtsdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacadtsdec.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lpc.c
+END
+motion_est.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motion_est.c
+END
+aacadtsdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacadtsdec.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lpc.h
+END
+amrnbdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/amrnbdata.h
+END
+fft_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft_fixed.c
+END
+mlpdsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlpdsp.c
+END
+msgsmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msgsmdec.c
+END
+assdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/assdec.c
+END
+w32thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/w32thread.c
+END
+flicvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flicvideo.c
+END
+msgsmdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msgsmdec.h
+END
+celp_filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/celp_filters.c
+END
+mjpeg_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpeg_parser.c
+END
+celp_filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/celp_filters.h
+END
+vp56rac.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56rac.c
+END
+qtrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qtrle.c
+END
+vp8_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8_parser.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/options.c
+END
+interplayvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/interplayvideo.c
+END
+rdft.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rdft.c
+END
+libschroedinger.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libschroedinger.c
+END
+rdft.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rdft.h
+END
+eamad.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eamad.c
+END
+libschroedinger.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libschroedinger.h
+END
+anm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/anm.c
+END
+msmpeg4.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msmpeg4.c
+END
+libdirac.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libdirac.h
+END
+dxva2_mpeg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2_mpeg2.c
+END
+pcxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcxenc.c
+END
+pcm_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcm_tablegen.c
+END
+msmpeg4.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msmpeg4.h
+END
+tiertexseqv.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tiertexseqv.c
+END
+pcm_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcm_tablegen.h
+END
+eacmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eacmv.c
+END
+fft-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft-test.c
+END
+flv.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flv.h
+END
+fft-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft-internal.h
+END
+jrevdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jrevdct.c
+END
+mpegaudiotab.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiotab.h
+END
+mdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mdec.c
+END
+aacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacenc.c
+END
+mdct_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mdct_float.c
+END
+msvideo1enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msvideo1enc.c
+END
+ac3dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dsp.c
+END
+aacenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacenc.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/internal.h
+END
+ac3dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dsp.h
+END
+ac3enc_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc_template.c
+END
+tiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tiff.c
+END
+flacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flacenc.c
+END
+mpegvideo_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo_common.h
+END
+dump_extradata_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dump_extradata_bsf.c
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tiff.h
+END
+ivi_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ivi_dsp.c
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lsp.c
+END
+h263_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263_parser.c
+END
+aacdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacdec.c
+END
+libspeexenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libspeexenc.c
+END
+ivi_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ivi_dsp.h
+END
+audioconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/audioconvert.c
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lsp.h
+END
+h263_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263_parser.h
+END
+vaapi_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi_h264.c
+END
+mdct_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mdct_fixed.c
+END
+audioconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/audioconvert.h
+END
+sgienc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sgienc.c
+END
+cinepak.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cinepak.c
+END
+kbdwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/kbdwin.c
+END
+mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc.c
+END
+flacdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flacdec.c
+END
+msrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msrle.c
+END
+kbdwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/kbdwin.h
+END
+aac_adtstoasc_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_adtstoasc_bsf.c
+END
+mpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc.h
+END
+libspeexdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libspeexdec.c
+END
+mjpegenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpegenc.c
+END
+twinvq.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/twinvq.c
+END
+mjpegenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpegenc.h
+END
+vorbis_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbis_data.c
+END
+sgidec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sgidec.c
+END
+qcelpdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qcelpdata.h
+END
+dct32_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct32_float.c
+END
+qdm2_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qdm2_tablegen.c
+END
+aasc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aasc.c
+END
+qdm2_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qdm2_tablegen.h
+END
+mpeg4data.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4data.h
+END
+ulti.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ulti.c
+END
+vmdav.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vmdav.c
+END
+mjpegdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpegdec.c
+END
+libavcodec.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libavcodec.v
+END
+vp3dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp3dsp.c
+END
+mjpegbdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpegbdec.c
+END
+h264data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264data.h
+END
+rl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rl.h
+END
+mjpegdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpegdec.h
+END
+h264dsp_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264dsp_template.c
+END
+ansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ansi.c
+END
+rv30.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv30.c
+END
+mpegvideo_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo_parser.c
+END
+dct32_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct32_fixed.c
+END
+bfi.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bfi.c
+END
+dvbsub_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvbsub_parser.c
+END
+jpeglsenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jpeglsenc.c
+END
+zmbv.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/zmbv.c
+END
+vdpau.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vdpau.c
+END
+ra144enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra144enc.c
+END
+mpegaudiodectab.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodectab.h
+END
+vc1data.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1data.c
+END
+bytestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bytestream.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vdpau.h
+END
+truemotion1data.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/truemotion1data.h
+END
+dxva2_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2_h264.c
+END
+g729data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/g729data.h
+END
+vc1data.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1data.h
+END
+avs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/avs.c
+END
+aac.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac.h
+END
+ivi_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ivi_common.c
+END
+sunrast.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sunrast.c
+END
+jpeglsdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jpeglsdec.c
+END
+ivi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ivi_common.h
+END
+jpeglsdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jpeglsdec.h
+END
+avfft.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/avfft.c
+END
+ra144dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra144dec.c
+END
+rv34vlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv34vlc.h
+END
+vp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp3.c
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/avfft.h
+END
+ptx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ptx.c
+END
+mp3_header_compress_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mp3_header_compress_bsf.c
+END
+lzw.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lzw.c
+END
+libgsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libgsm.c
+END
+qdrw.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qdrw.c
+END
+qtrleenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qtrleenc.c
+END
+mpcdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpcdata.h
+END
+mpegvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo.c
+END
+libaacplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libaacplus.c
+END
+mqc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mqc.c
+END
+lzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lzw.h
+END
+indeo5data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo5data.h
+END
+shorten.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/shorten.c
+END
+mpegvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo.h
+END
+mjpeg2jpeg_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpeg2jpeg_bsf.c
+END
+mqc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mqc.h
+END
+dxva2_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2_internal.h
+END
+truemotion1.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/truemotion1.c
+END
+mpeg4videoenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4videoenc.c
+END
+cabac.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cabac.c
+END
+mpeg12.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12.c
+END
+motionpixels_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motionpixels_tablegen.c
+END
+mpeg4audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4audio.c
+END
+h263dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263dec.c
+END
+cabac.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cabac.h
+END
+mpeg12.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12.h
+END
+motionpixels_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motionpixels_tablegen.h
+END
+aac_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_parser.c
+END
+mpeg4audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4audio.h
+END
+wmaprodata.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmaprodata.h
+END
+binkaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/binkaudio.c
+END
+get_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/get_bits.h
+END
+vc1dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1dec.c
+END
+rpza.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rpza.c
+END
+flvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flvenc.c
+END
+libopencore-amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libopencore-amr.c
+END
+rv10enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv10enc.c
+END
+mpeg4videodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4videodec.c
+END
+mpeg4video_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4video_parser.c
+END
+apedec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/apedec.c
+END
+mpeg4video_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg4video_parser.h
+END
+tta.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tta.c
+END
+iirfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/iirfilter.c
+END
+acelp_vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_vectors.c
+END
+fft-fixed-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft-fixed-test.c
+END
+aacsbrdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacsbrdata.h
+END
+svq1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1.c
+END
+vorbisenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbisenc.c
+END
+rv40.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv40.c
+END
+flashsvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flashsvenc.c
+END
+gsmdec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gsmdec_template.c
+END
+crystalhd.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/crystalhd.c
+END
+acelp_vectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_vectors.h
+END
+iirfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/iirfilter.h
+END
+libopenjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libopenjpeg.c
+END
+svq1.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1.h
+END
+rl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rl2.c
+END
+eac3enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eac3enc.c
+END
+flvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flvdec.c
+END
+g729dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/g729dec.c
+END
+eac3enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eac3enc.h
+END
+rectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rectangle.h
+END
+mpegaudio_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudio_tablegen.c
+END
+sp5xdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sp5xdec.c
+END
+atrac3data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac3data.h
+END
+cscd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cscd.c
+END
+s3tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/s3tc.c
+END
+sinewin_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sinewin_tablegen.c
+END
+bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bmp.c
+END
+mpegaudio_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudio_tablegen.h
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mathops.h
+END
+vorbisdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbisdec.c
+END
+aac_tablegen_decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_tablegen_decl.h
+END
+s3tc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/s3tc.h
+END
+sinewin_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sinewin_tablegen.h
+END
+bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bmp.h
+END
+jpegls.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jpegls.c
+END
+amr.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/amr.h
+END
+eac3dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eac3dec.c
+END
+truemotion2.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/truemotion2.c
+END
+libcelt_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libcelt_dec.c
+END
+jpegls.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jpegls.h
+END
+allcodecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/allcodecs.c
+END
+rtjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rtjpeg.c
+END
+wmv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmv2.c
+END
+ac3enc_opts_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc_opts_template.c
+END
+dirac_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dirac_parser.c
+END
+lclenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lclenc.c
+END
+rtjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rtjpeg.h
+END
+wmv2.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmv2.h
+END
+ass_split.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ass_split.c
+END
+truespeech_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/truespeech_data.h
+END
+ass_split.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ass_split.h
+END
+pnm_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pnm_parser.c
+END
+atrac1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac1.c
+END
+v210enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/v210enc.c
+END
+ac3_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3_parser.c
+END
+lcldec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lcldec.c
+END
+ac3_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3_parser.h
+END
+roqvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/roqvideo.c
+END
+dpx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dpx.c
+END
+roqvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/roqvideo.h
+END
+faandct.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faandct.c
+END
+r210dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/r210dec.c
+END
+eatgq.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eatgq.c
+END
+dca_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dca_parser.c
+END
+sp5x.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sp5x.h
+END
+v210dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/v210dec.c
+END
+faandct.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faandct.h
+END
+ac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3.c
+END
+cdgraphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cdgraphics.c
+END
+imc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/imc.c
+END
+4xm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/4xm.c
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/avcodec.h
+END
+vp5.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp5.c
+END
+ac3.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3.h
+END
+imgconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/imgconvert.c
+END
+lcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lcl.h
+END
+aacpsy.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacpsy.c
+END
+imgconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/imgconvert.h
+END
+bink.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bink.c
+END
+aacpsy.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacpsy.h
+END
+cos_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cos_tablegen.c
+END
+libschroedingerenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libschroedingerenc.c
+END
+vaapi_mpeg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi_mpeg2.c
+END
+gsmdec_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gsmdec_data.c
+END
+cook.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cook.c
+END
+wnv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wnv1.c
+END
+dxva2_vc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2_vc1.c
+END
+avpacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/avpacket.c
+END
+mpegaudiodecheader.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodecheader.c
+END
+libtheoraenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libtheoraenc.c
+END
+gsmdec_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gsmdec_data.h
+END
+dsicinav.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dsicinav.c
+END
+lzwenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/lzwenc.c
+END
+qdm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qdm2.c
+END
+mpegaudiodecheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodecheader.h
+END
+h264_mvpred.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_mvpred.h
+END
+yop.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/yop.c
+END
+vp8data.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8data.h
+END
+tiffenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tiffenc.c
+END
+libschroedingerdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libschroedingerdec.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft.c
+END
+h261.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261.c
+END
+flac_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flac_parser.c
+END
+kgv1dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/kgv1dec.c
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fft.h
+END
+h261.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261.h
+END
+mpegaudio_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudio_parser.c
+END
+j2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2k.c
+END
+svq1enc_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1enc_cb.h
+END
+j2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2k.h
+END
+huffyuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/huffyuv.c
+END
+svq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq3.c
+END
+rv34data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv34data.h
+END
+h264_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_parser.c
+END
+vc1dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1dsp.c
+END
+gsmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gsmdec.c
+END
+ra288.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra288.c
+END
+vc1dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1dsp.h
+END
+ra288.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra288.h
+END
+ac3dec_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dec_data.c
+END
+vp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp6.c
+END
+dvdsubenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvdsubenc.c
+END
+ac3dec_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3dec_data.h
+END
+pnmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pnmenc.c
+END
+gifdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gifdec.c
+END
+aacps.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacps.c
+END
+sgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sgi.h
+END
+vorbis_enc_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbis_enc_data.h
+END
+resample2.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/resample2.c
+END
+aacps.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacps.h
+END
+rv34.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv34.c
+END
+dvdsubdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvdsubdec.c
+END
+rv34.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv34.h
+END
+j2k_dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2k_dwt.c
+END
+pnmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pnmdec.c
+END
+vp3data.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp3data.h
+END
+cavsdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavsdec.c
+END
+j2k_dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2k_dwt.h
+END
+roqaudioenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/roqaudioenc.c
+END
+mpegaudiodec_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodec_float.c
+END
+vcr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vcr1.c
+END
+libxvidff.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libxvidff.c
+END
+h264_direct.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_direct.c
+END
+atrac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac3.c
+END
+vqavideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vqavideo.c
+END
+rv20enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv20enc.c
+END
+indeo2.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo2.c
+END
+dxva2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2.c
+END
+smacker.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/smacker.c
+END
+aac_ac3_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_ac3_parser.c
+END
+aura.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aura.c
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxva2.h
+END
+aac_ac3_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_ac3_parser.h
+END
+dnxhdenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhdenc.c
+END
+flacdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flacdata.c
+END
+chomp_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/chomp_bsf.c
+END
+dnxhdenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhdenc.h
+END
+flacdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flacdata.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/opt.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/resample.c
+END
+dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dv.c
+END
+pngenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pngenc.c
+END
+wmavoice.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmavoice.c
+END
+mpegvideo_xvmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo_xvmc.c
+END
+j2kenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2kenc.c
+END
+idcinvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/idcinvideo.c
+END
+dnxhddec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhddec.c
+END
+motion-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motion-test.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/huffman.c
+END
+rv40vlc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv40vlc2.h
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/huffman.h
+END
+intelh263dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/intelh263dec.c
+END
+jvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jvdec.c
+END
+h264_cavlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_cavlc.c
+END
+cavsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavsdata.h
+END
+qpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qpeg.c
+END
+vaapi_mpeg4.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi_mpeg4.c
+END
+mpegaudioenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudioenc.c
+END
+pngdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pngdec.c
+END
+vaapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi.c
+END
+aaccoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aaccoder.c
+END
+j2kdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/j2kdec.c
+END
+vmnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vmnc.c
+END
+mlp_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlp_parser.c
+END
+bethsoftvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bethsoftvideo.c
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi.h
+END
+bgmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bgmc.c
+END
+mlp_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlp_parser.h
+END
+bethsoftvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bethsoftvideo.h
+END
+siprdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/siprdata.h
+END
+bgmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bgmc.h
+END
+indeo3.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo3.c
+END
+aacpsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacpsdata.c
+END
+h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263.c
+END
+rle.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rle.c
+END
+remove_extradata_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/remove_extradata_bsf.c
+END
+mpegaudiodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodec.c
+END
+snow.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/snow.c
+END
+h263.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h263.h
+END
+rle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rle.h
+END
+sbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sbr.h
+END
+snow.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/snow.h
+END
+ac3tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3tab.c
+END
+mimic.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mimic.c
+END
+kmvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/kmvc.c
+END
+ac3tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3tab.h
+END
+zmbvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/zmbvenc.c
+END
+faanidct.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faanidct.c
+END
+mpegaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudio.c
+END
+asv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/asv1.c
+END
+vp8.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8.c
+END
+faanidct.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faanidct.h
+END
+mpegaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudio.h
+END
+dct32.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct32.c
+END
+eac3dec_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eac3dec_data.c
+END
+g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/g722.c
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp8.h
+END
+dct32.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct32.h
+END
+eac3dec_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eac3dec_data.h
+END
+twinvq_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/twinvq_data.h
+END
+ulti_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ulti_cb.h
+END
+nellymoser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/nellymoser.c
+END
+h264dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264dsp.c
+END
+a64multienc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/a64multienc.c
+END
+error_resilience.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/error_resilience.c
+END
+h261_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261_parser.c
+END
+nellymoser.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/nellymoser.h
+END
+h264dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264dsp.h
+END
+sipr16k.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sipr16k.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/utils.c
+END
+unary.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/unary.h
+END
+imcdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/imcdata.h
+END
+truespeech.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/truespeech.c
+END
+cavs_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavs_parser.c
+END
+8bps.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/8bps.c
+END
+acelp_filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_filters.c
+END
+golomb.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/golomb.c
+END
+vdpau_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vdpau_internal.h
+END
+acelp_filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_filters.h
+END
+h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264.c
+END
+golomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/golomb.h
+END
+amrwbdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/amrwbdec.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/png.c
+END
+mlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlp.c
+END
+h264.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/png.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/Makefile
+END
+psymodel.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/psymodel.c
+END
+mlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlp.h
+END
+psymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/psymodel.h
+END
+cavsdsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavsdsp.c
+END
+mpegvideo_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegvideo_enc.c
+END
+mpc7data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc7data.h
+END
+8svx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/8svx.c
+END
+cavsdsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavsdsp.h
+END
+roqvideoenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/roqvideoenc.c
+END
+h261data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261data.h
+END
+smc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/smc.c
+END
+cga_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cga_data.c
+END
+frwu.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/frwu.c
+END
+a64enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/a64enc.h
+END
+cga_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cga_data.h
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/raw.c
+END
+pcx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcx.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/version.h
+END
+ratecontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ratecontrol.c
+END
+celp_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/celp_math.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/parser.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/raw.h
+END
+c93.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/c93.c
+END
+vp56.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/parser.h
+END
+celp_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/celp_math.h
+END
+ratecontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ratecontrol.h
+END
+libxvid_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libxvid_internal.h
+END
+bmpenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bmpenc.c
+END
+roqvideodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/roqvideodec.c
+END
+flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flac.c
+END
+vp56.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56.h
+END
+mpc7.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc7.c
+END
+noise_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/noise_bsf.c
+END
+latm_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/latm_parser.c
+END
+flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flac.h
+END
+dxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dxa.c
+END
+vp6dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp6dsp.c
+END
+indeo5.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo5.c
+END
+dpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dpcm.c
+END
+vp3_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp3_parser.c
+END
+dca.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dca.c
+END
+rv30data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv30data.h
+END
+ra144.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra144.c
+END
+dca.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dca.h
+END
+ws-snd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ws-snd1.c
+END
+sipr16kdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sipr16kdata.h
+END
+ra144.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ra144.h
+END
+vaapi_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi_internal.h
+END
+mace.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mace.c
+END
+mpegaudiodsp_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodsp_float.c
+END
+eatgv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eatgv.c
+END
+sipr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sipr.c
+END
+xvmc_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xvmc_internal.h
+END
+xxan.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xxan.c
+END
+indeo2data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo2data.h
+END
+mpegaudiodsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodsp.c
+END
+sipr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sipr.h
+END
+mpegaudiodsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodsp.h
+END
+aacsbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacsbr.c
+END
+mxpegdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mxpegdec.c
+END
+mpegaudiodsp_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodsp_fixed.c
+END
+aacsbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacsbr.h
+END
+ffv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ffv1.c
+END
+flashsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flashsv.c
+END
+mpc8.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc8.c
+END
+wmavoice_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmavoice_data.h
+END
+aactab.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aactab.c
+END
+faxcompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faxcompr.c
+END
+aactab.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aactab.h
+END
+h264idct_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264idct_template.c
+END
+dirac.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dirac.c
+END
+wmadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmadata.h
+END
+faxcompr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/faxcompr.h
+END
+binkidct.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/binkidct.c
+END
+dirac.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dirac.h
+END
+h264pred_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264pred_template.c
+END
+alsdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alsdec.c
+END
+libdirac_libschro.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libdirac_libschro.c
+END
+bitstream_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bitstream_filter.c
+END
+h264_refs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_refs.c
+END
+libdirac_libschro.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libdirac_libschro.h
+END
+libxavs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libxavs.c
+END
+dv_vlc_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dv_vlc_data.h
+END
+sonic.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/sonic.c
+END
+pgssubdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pgssubdec.c
+END
+dsputil_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dsputil_template.c
+END
+svq1enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1enc.c
+END
+dnxhd_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhd_parser.c
+END
+h264_loopfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_loopfilter.c
+END
+h264_sei.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_sei.c
+END
+xl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xl.c
+END
+imx_dump_header_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/imx_dump_header_bsf.c
+END
+targaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/targaenc.c
+END
+dcadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcadata.h
+END
+mjpega_dump_header_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mjpega_dump_header_bsf.c
+END
+libx264.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libx264.c
+END
+aacdectab.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacdectab.h
+END
+dwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dwt.c
+END
+dwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dwt.h
+END
+pcm-mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcm-mpeg.c
+END
+mqcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mqcenc.c
+END
+svq1dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1dec.c
+END
+mpegaudiodsp_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpegaudiodsp_template.c
+END
+aac_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_tablegen.c
+END
+dct-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct-test.c
+END
+acelp_pitch_delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_pitch_delay.c
+END
+aac_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aac_tablegen.h
+END
+mqcdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mqcdec.c
+END
+cavs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavs.c
+END
+simple_idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/simple_idct.c
+END
+acelp_pitch_delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/acelp_pitch_delay.h
+END
+mmvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mmvideo.c
+END
+cavs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cavs.h
+END
+simple_idct.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/simple_idct.h
+END
+eatqi.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eatqi.c
+END
+msmpeg4data.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msmpeg4data.c
+END
+mpc8data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc8data.h
+END
+dctref.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dctref.c
+END
+xsubenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xsubenc.c
+END
+msmpeg4data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msmpeg4data.h
+END
+fraps.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/fraps.c
+END
+dctref.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dctref.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/thread.h
+END
+mpeg12enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12enc.c
+END
+aandcttab.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aandcttab.c
+END
+dsputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dsputil.c
+END
+g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/g726.c
+END
+aandcttab.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aandcttab.h
+END
+xan.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xan.c
+END
+dsputil.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dsputil.h
+END
+ituh263enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ituh263enc.c
+END
+vc1acdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1acdata.h
+END
+xsubdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xsubdec.c
+END
+put_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/put_bits.h
+END
+dnxhddata.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhddata.c
+END
+rv30dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv30dsp.c
+END
+dvdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvdata.c
+END
+dnxhddata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dnxhddata.h
+END
+vp56dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56dsp.c
+END
+dvdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvdata.h
+END
+xiph.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xiph.c
+END
+elbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/elbg.c
+END
+rangecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rangecoder.c
+END
+vp5data.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp5data.h
+END
+motion_est_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/motion_est_template.c
+END
+inverse.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/inverse.c
+END
+vp56dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56dsp.h
+END
+dcaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcaenc.c
+END
+xiph.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xiph.h
+END
+elbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/elbg.h
+END
+rangecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rangecoder.h
+END
+ituh263dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ituh263dec.c
+END
+adx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/adx.h
+END
+dcaenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcaenc.h
+END
+mpeg12data.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12data.c
+END
+libmp3lame.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libmp3lame.c
+END
+h264_ps.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_ps.c
+END
+aacps_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacps_tablegen.c
+END
+eaidct.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/eaidct.c
+END
+mpeg12data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12data.h
+END
+vp56data.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56data.c
+END
+cbrt_tablegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cbrt_tablegen.c
+END
+aacps_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/aacps_tablegen.h
+END
+txd.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/txd.c
+END
+vp56data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vp56data.h
+END
+alac.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alac.c
+END
+cbrt_tablegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cbrt_tablegen.h
+END
+dct.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct.c
+END
+flashsv2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/flashsv2enc.c
+END
+dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dct.h
+END
+indeo3data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/indeo3data.h
+END
+qcelpdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/qcelpdec.c
+END
+wmv2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmv2enc.c
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/xvmc.h
+END
+alacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/alacenc.c
+END
+ljpegenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ljpegenc.c
+END
+vc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1.c
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/bitstream.c
+END
+atrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac.c
+END
+a64tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/a64tables.h
+END
+rv40data.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/rv40data.h
+END
+ac3enc_combined.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc_combined.c
+END
+msrledec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msrledec.c
+END
+vc1.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vc1.h
+END
+atrac.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac.h
+END
+msrledec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msrledec.h
+END
+svq1_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/svq1_cb.h
+END
+mlpdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mlpdec.c
+END
+intrax8dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/intrax8dsp.c
+END
+iff.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/iff.c
+END
+vorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbis.c
+END
+movsub_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/movsub_bsf.c
+END
+dcahuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dcahuff.h
+END
+wmv2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmv2dec.c
+END
+vorbis.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vorbis.h
+END
+wmaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmaenc.c
+END
+amrnbdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/amrnbdec.c
+END
+pictordec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pictordec.c
+END
+libfaac.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libfaac.c
+END
+dpxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dpxenc.c
+END
+cyuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/cyuv.c
+END
+pthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pthread.c
+END
+loco.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/loco.c
+END
+tscc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tscc.c
+END
+targa.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/targa.c
+END
+wmadec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmadec.c
+END
+targa.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/targa.h
+END
+s302m.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/s302m.c
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/jfdctint.c
+END
+gif.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/gif.c
+END
+mpeg12decdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpeg12decdata.h
+END
+h261enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261enc.c
+END
+vb.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vb.c
+END
+tableprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/tableprint.h
+END
+vaapi_vc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/vaapi_vc1.c
+END
+atrac1data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/atrac1data.h
+END
+synth_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/synth_filter.c
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/pcm.c
+END
+nellymoserenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/nellymoserenc.c
+END
+synth_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/synth_filter.h
+END
+wmaprodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wmaprodec.c
+END
+adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/adpcm.c
+END
+mpc8huff.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mpc8huff.h
+END
+mp3_header_decompress_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/mp3_header_decompress_bsf.c
+END
+libxvid_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libxvid_rc.c
+END
+dvbsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dvbsub.c
+END
+ass.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ass.c
+END
+msvideo1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/msvideo1.c
+END
+h264idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264idct.c
+END
+libvpxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/libvpxenc.c
+END
+dfa.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/dfa.c
+END
+ass.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ass.h
+END
+h264_mp4toannexb_bsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_mp4toannexb_bsf.c
+END
+h264_cabac.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h264_cabac.c
+END
+h261dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/h261dec.c
+END
+ac3enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/ac3enc.c
+END
+wavpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavcodec/wavpack.c
+END

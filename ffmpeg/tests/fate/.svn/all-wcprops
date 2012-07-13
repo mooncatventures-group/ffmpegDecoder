@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate
+END
+vp8.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/vp8.mak
+END
+als.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/als.mak
+END
+fft.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/fft.mak
+END
+mp3.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/mp3.mak
+END
+h264.mak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/h264.mak
+END
+aac.mak
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/aac.mak
+END
+vorbis.mak
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/fate/vorbis.mak
+END

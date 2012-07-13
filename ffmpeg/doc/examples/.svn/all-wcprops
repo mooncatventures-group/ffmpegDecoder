@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/examples
+END
+encoding-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/examples/encoding-example.c
+END
+muxing-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/examples/muxing-example.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/examples/Makefile
+END

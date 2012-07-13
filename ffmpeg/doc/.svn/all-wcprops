@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc
+END
+faq.texi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/faq.texi
+END
+swscale.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/swscale.txt
+END
+avutil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/avutil.txt
+END
+viterbi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/viterbi.txt
+END
+rate_distortion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/rate_distortion.txt
+END
+ffplay.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/ffplay.texi
+END
+bitstream_filters.texi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/bitstream_filters.texi
+END
+ffprobe.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/ffprobe.texi
+END
+protocols.texi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/protocols.texi
+END
+multithreading.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/multithreading.txt
+END
+git-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/git-howto.txt
+END
+eval.texi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/eval.texi
+END
+tablegen.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/tablegen.txt
+END
+outdevs.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/outdevs.texi
+END
+APIchanges
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/APIchanges
+END
+optimization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/optimization.txt
+END
+demuxers.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/demuxers.texi
+END
+snow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/snow.txt
+END
+encoders.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/encoders.texi
+END
+libavfilter.texi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/libavfilter.texi
+END
+filters.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/filters.texi
+END
+issue_tracker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/issue_tracker.txt
+END
+build_system.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/build_system.txt
+END
+general.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/general.texi
+END
+metadata.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/metadata.texi
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/RELEASE_NOTES
+END
+ffserver.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/ffserver.texi
+END
+muxers.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/muxers.texi
+END
+fftools-common-opts.texi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/fftools-common-opts.texi
+END
+developer.texi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/developer.texi
+END
+fate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/fate.txt
+END
+t2h.init
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/t2h.init
+END
+indevs.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/indevs.texi
+END
+decoders.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/decoders.texi
+END
+soc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/soc.txt
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/TODO
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/ffserver.conf
+END
+texi2pod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/texi2pod.pl
+END
+ffmpeg.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/doc/ffmpeg.texi
+END

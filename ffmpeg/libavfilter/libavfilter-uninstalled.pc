@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/Users/michelleC/svn1/rtt/projects/movietest/ffmpeg/ffmpeg
+
+Name: libavfilter
+Description: FFmpeg video filtering library
+Version: 2.23.0
+Requires: 
+Conflicts:
+Libs: ${libdir}/libavfilter.a  -lm 
+Cflags: -I${includedir}

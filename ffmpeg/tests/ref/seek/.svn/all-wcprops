@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek
+END
+h261_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/h261_avi
+END
+lavf_y4m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_y4m
+END
+lavf_dv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_dv
+END
+lavf_asf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_asf
+END
+h263_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/h263_avi
+END
+mpeg2reuse_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2reuse_mpg
+END
+yuv_avi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/yuv_avi
+END
+lavf_ogg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_ogg
+END
+snow_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/snow_avi
+END
+ppmpipe_ppm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/ppmpipe_ppm
+END
+flac_flac
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/flac_flac
+END
+huffyuv_avi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/huffyuv_avi
+END
+mpeg4_Q_avi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_Q_avi
+END
+pcm_s16be_mkv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s16be_mkv
+END
+lavf_ts
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_ts
+END
+flv_flv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/flv_flv
+END
+adpcm_ms_wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/adpcm_ms_wav
+END
+pcm_s16be_mov
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s16be_mov
+END
+mpeg4_qprd_avi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_qprd_avi
+END
+dv_dv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dv_dv
+END
+lavf_al
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_al
+END
+lavf_mkv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mkv
+END
+lavf_mxf_d10
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mxf_d10
+END
+pcm_s16le_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s16le_wav
+END
+lavf_swf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_swf
+END
+lavf_mov
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mov
+END
+asv1_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/asv1_avi
+END
+asv2_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/asv2_avi
+END
+adpcm_swf_flv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/adpcm_swf_flv
+END
+mp2_mp2
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mp2_mp2
+END
+lavf_au
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_au
+END
+image_tga
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_tga
+END
+mpeg1b_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg1b_mpg
+END
+lavf_nut
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_nut
+END
+lavf_ffm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_ffm
+END
+jpegls_avi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/jpegls_avi
+END
+wmav1_asf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/wmav1_asf
+END
+image_pgm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_pgm
+END
+wmav2_asf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/wmav2_asf
+END
+adpcm_ima_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/adpcm_ima_wav
+END
+lavf_ul
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_ul
+END
+lavf_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mpg
+END
+lavf_gxf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_gxf
+END
+image_pcx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_pcx
+END
+ljpeg_avi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/ljpeg_avi
+END
+mjpeg_avi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mjpeg_avi
+END
+ffv1_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/ffv1_avi
+END
+pcm_mulaw_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_mulaw_wav
+END
+pcm_zork_wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_zork_wav
+END
+lavf_mxf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mxf
+END
+dnxhd_720p_dnxhd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dnxhd_720p_dnxhd
+END
+pgmpipe_pgm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pgmpipe_pgm
+END
+mpeg4_adv_avi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_adv_avi
+END
+lavf_aif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_aif
+END
+dnxhd_1080i_mov
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dnxhd_1080i_mov
+END
+adpcm_yam_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/adpcm_yam_wav
+END
+pcm_u8_wav
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_u8_wav
+END
+pcm_s8_mov
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s8_mov
+END
+msmpeg4_avi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/msmpeg4_avi
+END
+svq1_mov
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/svq1_mov
+END
+lavf_gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_gif
+END
+flashsv_flv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/flashsv_flv
+END
+error_mpeg4_adv_avi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/error_mpeg4_adv_avi
+END
+image_jpg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_jpg
+END
+pcm_f32be_au
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_f32be_au
+END
+lavf_rm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_rm
+END
+mpeg2i_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2i_mpg
+END
+rv10_rm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/rv10_rm
+END
+lavf_mmf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_mmf
+END
+pcm_f32le_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_f32le_wav
+END
+rv20_rm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/rv20_rm
+END
+dv411_dv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dv411_dv
+END
+pcm_s24daud_302
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s24daud_302
+END
+pcm_f64be_au
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_f64be_au
+END
+snow53_avi
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/snow53_avi
+END
+image_ppm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_ppm
+END
+pcm_s32be_mov
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s32be_mov
+END
+lavf_voc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_voc
+END
+mpeg4_rc_avi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_rc_avi
+END
+mpeg4_adap_avi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_adap_avi
+END
+pcm_alaw_wav
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_alaw_wav
+END
+alac_m4a
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/alac_m4a
+END
+h263p_avi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/h263p_avi
+END
+g726_wav
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/g726_wav
+END
+mpeg4_thread_avi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_thread_avi
+END
+mpeg2_422_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2_422_mpg
+END
+pcm_s32le_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s32le_wav
+END
+lavf_wav
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_wav
+END
+mpeg2thread_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2thread_mpg
+END
+pcm_s16le_mkv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s16le_mkv
+END
+rgb_avi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/rgb_avi
+END
+roqav_roq
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/roqav_roq
+END
+mpeg4_nr_avi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg4_nr_avi
+END
+adpcm_qt_aiff
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/adpcm_qt_aiff
+END
+image_bmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_bmp
+END
+mpeg2ivlc_qprd_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2ivlc_qprd_mpg
+END
+mpeg2threadivlc_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2threadivlc_mpg
+END
+msmpeg4v2_avi
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/msmpeg4v2_avi
+END
+image_sgi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_sgi
+END
+lavf_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_avi
+END
+dnxhd_720p_rd_dnxhd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dnxhd_720p_rd_dnxhd
+END
+wmv1_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/wmv1_avi
+END
+image_tiff
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/image_tiff
+END
+pbmpipe_pbm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pbmpipe_pbm
+END
+wmv2_avi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/wmv2_avi
+END
+pcm_f64le_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_f64le_wav
+END
+lavf_flv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/lavf_flv
+END
+pcm_s24be_mov
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s24be_mov
+END
+ac3_rm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/ac3_rm
+END
+pcm_s24le_wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/pcm_s24le_wav
+END
+dv50_dv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/dv50_dv
+END
+odivx_mp4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/odivx_mp4
+END
+mpeg1_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg1_mpg
+END
+mpeg2_mpg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/tests/ref/seek/mpeg2_mpg
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs
+END
+vf_ilpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_ilpack.c
+END
+vf_rectangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_rectangle.c
+END
+vf_il.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_il.c
+END
+vf_pp7.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_pp7.c
+END
+vd_ffmpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vd_ffmpeg.h
+END
+vf_fspp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_fspp.c
+END
+vfcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vfcap.h
+END
+vf_smartblur.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_smartblur.c
+END
+vf_decimate.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_decimate.c
+END
+vf_geq.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_geq.c
+END
+vf_screenshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_screenshot.c
+END
+vf_qp.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_qp.c
+END
+vf_pullup.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_pullup.c
+END
+vf_hue.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_hue.c
+END
+vf_mcdeint.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_mcdeint.c
+END
+mpbswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/mpbswap.h
+END
+mp_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/mp_image.c
+END
+vf_field.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_field.c
+END
+vf_ow.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_ow.c
+END
+pullup.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/pullup.c
+END
+vf_eq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_eq2.c
+END
+mp_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/mp_image.h
+END
+img_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/img_format.c
+END
+pullup.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/pullup.h
+END
+vf_rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_rotate.c
+END
+img_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/img_format.h
+END
+vf_ivtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_ivtc.c
+END
+vf_filmdint.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_filmdint.c
+END
+vf_fixpts.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_fixpts.c
+END
+vf_kerndeint.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_kerndeint.c
+END
+vf_blackframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_blackframe.c
+END
+vf_perspective.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_perspective.c
+END
+cpudetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/cpudetect.h
+END
+vf_tinterlace.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_tinterlace.c
+END
+mpc_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/mpc_info.h
+END
+vf_sab.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_sab.c
+END
+vf_eq.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_eq.c
+END
+vf_fil.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_fil.c
+END
+vf_remove_logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_remove_logo.c
+END
+vf_noise.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_noise.c
+END
+vf_swapuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_swapuv.c
+END
+vf_framestep.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_framestep.c
+END
+vf_harddup.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_harddup.c
+END
+vf_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_scale.h
+END
+vf_cropdetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_cropdetect.c
+END
+vf_down3dright.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_down3dright.c
+END
+vf_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_palette.c
+END
+vf_phase.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_phase.c
+END
+vf_softskip.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_softskip.c
+END
+vf_delogo.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_delogo.c
+END
+vf_divtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_divtc.c
+END
+vf_rgbtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_rgbtest.c
+END
+vf_mirror.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_mirror.c
+END
+vf_yvu9.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_yvu9.c
+END
+vf_boxblur.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_boxblur.c
+END
+vf_denoise3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_denoise3d.c
+END
+vf_dsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_dsize.c
+END
+vf_detc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_detc.c
+END
+vf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_test.c
+END
+vf_unsharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_unsharp.c
+END
+vf_hqdn3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_hqdn3d.c
+END
+vf.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf.h
+END
+vf_2xsai.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_2xsai.c
+END
+vf_gradfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_gradfun.c
+END
+vf_uspp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_uspp.c
+END
+vf_telecine.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_telecine.c
+END
+vf_yuvcsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_yuvcsp.c
+END
+mp_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/mp_msg.h
+END
+vf_tile.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_tile.c
+END
+help_mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/help_mp.h
+END
+vf_dint.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_dint.c
+END
+vf_softpulldown.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_softpulldown.c
+END
+vf_spp.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/libavfilter/libmpcodecs/vf_spp.c
+END

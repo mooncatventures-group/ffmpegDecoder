@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets
+END
+libx264-lossless_slow.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_slow.ffpreset
+END
+libvpx-1080p50_60.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libvpx-1080p50_60.ffpreset
+END
+libvpx-720p50_60.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libvpx-720p50_60.ffpreset
+END
+libx264-lossless_max.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_max.ffpreset
+END
+libx264-lossless_ultrafast.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_ultrafast.ffpreset
+END
+libx264-ipod320.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-ipod320.ffpreset
+END
+libvpx-1080p.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libvpx-1080p.ffpreset
+END
+libvpx-360p.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libvpx-360p.ffpreset
+END
+libvpx-720p.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libvpx-720p.ffpreset
+END
+libx264-baseline.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-baseline.ffpreset
+END
+libx264-lossless_slower.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_slower.ffpreset
+END
+libx264-lossless_fast.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_fast.ffpreset
+END
+libx264-ipod640.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-ipod640.ffpreset
+END
+libx264-lossless_medium.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/evaforge/!svn/ver/10/trunk/software/client/reference/ffmpeg-0.8.7/ffpresets/libx264-lossless_medium.ffpreset
+END

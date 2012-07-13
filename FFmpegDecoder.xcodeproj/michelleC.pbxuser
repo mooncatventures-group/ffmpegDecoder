@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	3066F9A6154DE82F00F29373 /* FrameExtractor.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1650, 5109}}";
+			sepNavSelRange = "{0, 11609}";
+			sepNavVisRange = "{0, 547}";
+		};
+	};
+	30759341155747B20005A090 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	30759342155747B20005A090 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	308D1EEF156AEF26007BD74A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3066F9A6154DE82F00F29373 /* FrameExtractor.m */;
+		name = "FrameExtractor.m: 1";
+		rLen = 11609;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	30C46B17154DA8C2003E6ACF /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 30C46B23154DA8C3003E6ACF /* FFmpegDecoder */;
+		codeSenseManager = 30759342155747B20005A090 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 359593450;
+			PBXWorkspaceStateSaveDate = 359593450;
+		};
+		perUserProjectItems = {
+			308D1EEF156AEF26007BD74A /* PBXTextBookmark */ = 308D1EEF156AEF26007BD74A /* PBXTextBookmark */;
+			30E78491156EF5ED00D6E1FC /* PBXTextBookmark */ = 30E78491156EF5ED00D6E1FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 30759341155747B20005A090 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	30C46B23154DA8C3003E6ACF /* FFmpegDecoder */ = {
+		activeExec = 0;
+	};
+	30E78491156EF5ED00D6E1FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3066F9A6154DE82F00F29373 /* FrameExtractor.m */;
+		name = "FrameExtractor.m: 1";
+		rLen = 11609;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+}
